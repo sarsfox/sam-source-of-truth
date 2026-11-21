@@ -24,7 +24,9 @@ Updated November 21, 2026.
 
 ## Kaiser case management — November 21
 
-- [ ] Call LoWanda Moore at 510-752-7682. Check the November 2 social-work referral and November 6 Community Resources follow-up. Ask for a named coordinator, hands-on appointment/referral help and a callback date. Completion remains unverified.
+- November 21 call: reached an advance-care-planning nurse who handles directives/POLST, not ongoing care coordination. No case manager assigned. The nurse said she would message Dr. Korn. Whether this call resulted from the November 2 referral is unconfirmed.
+- [ ] Follow up with Dr. Korn: confirm receipt of the nurse’s message and request a direct handoff to the team assessing Care Plus/ECM or another covered coordination service, with a named contact and response date.
+- [ ] Ask LoWanda Moore, 510-752-7682, to coordinate that handoff and check the separate November 6 Community Resources follow-up. Request practical appointment/referral tracking and proactive follow-up.
 - [ ] Ask for the written Care Plus denial reason, review options and an alternative under current coverage. Check for a reply to the September 23 portal message before repeating it.
 - [ ] If needed, call Oakland Case Management at 510-752-1211 and ask Linh who received the November 2 referral.
 - [ ] Verify current Kaiser Medi-Cal assignment and eligibility for ECM/CCM/CHW support, plus continuity into 2027. Current county eligibility does not establish Kaiser assignment or program eligibility. Keep this with the existing coverage task.
