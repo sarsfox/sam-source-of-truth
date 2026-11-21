@@ -8,6 +8,7 @@ Updated November 21, 2026.
 2. [ ] Auntie Kit. Read emails
 3. [ ] SSDI. Update Hamilton re: KP test and Dr. Miller offer
 4. [ ] Metamask. See if they responded
+5. Gabapentin?
 
 
 ## Today's schedule — Friday, November 20
