@@ -1,6 +1,6 @@
 # Life Dashboard
 
-Updated November 20, 2026.
+Updated November 21, 2026.
 
 ## Priorities
 
@@ -21,6 +21,14 @@ Updated November 20, 2026.
 - [ ] Roston / Best: confirm their shared written medication plan, whether the earlier clinician-to-clinician note was sent, and the current Exelon decision. The older dismissal of withdrawal is superseded by Roston's November acknowledgment of several possible contributors. These historical notes are not new medication instructions.
 - [ ] Coverage: verify current Kaiser and Delta Dental enrollment, 2027 health-plan selection, and any actual unpaid premium using current notices. Do not assume March reinstatement steps are still outstanding.
 - PNC / Aaron: older hardship notes preserved as history. Mortgage-hardship work remains marked done as of November 17. No new application task.
+
+## Kaiser case management — November 21
+
+- [ ] Call LoWanda Moore at 510-752-7682. Check the November 2 social-work referral and November 6 Community Resources follow-up. Ask for a named coordinator, hands-on appointment/referral help and a callback date. Completion remains unverified.
+- [ ] Ask for the written Care Plus denial reason, review options and an alternative under current coverage. Check for a reply to the September 23 portal message before repeating it.
+- [ ] If needed, call Oakland Case Management at 510-752-1211 and ask Linh who received the November 2 referral.
+- [ ] Verify current Kaiser Medi-Cal assignment and eligibility for ECM/CCM/CHW support, plus continuity into 2027. Current county eligibility does not establish Kaiser assignment or program eligibility. Keep this with the existing coverage task.
+- [ ] Check the existing DMHC complaint status and retrieve the missing June 19 Kaiser decision. Formal DMHC submission remains unverified.
 
 ## Browse by area
 
