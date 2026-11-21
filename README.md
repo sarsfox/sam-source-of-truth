@@ -13,14 +13,12 @@ Updated November 21, 2026.
 ## Today's schedule — Friday, November 20
 
 - 9–10am — Quality time with Shir. “Sam and Shir starting point” is listed 9–9:45am.
-- 2–3pm — Psychiatry appointment with Dr. Richard Roston (CC calendar).
-- 3–4pm — Call with Gina Jeanna.
 
 ## November 20 update
 
-- [ ] Roston / Best: confirm their shared written medication plan, whether the earlier clinician-to-clinician note was sent, and the current Exelon decision. The older dismissal of withdrawal is superseded by Roston's November acknowledgment of several possible contributors. These historical notes are not new medication instructions.
+- [ ] Roston / Best: what miller asked. confirm their shared written medication plan, whether the earlier clinician-to-clinician note was sent, and the current Exelon decision. The older dismissal of withdrawal is superseded by Roston's November acknowledgment of several possible contributors. These historical notes are not new medication instructions.
 - [ ] Coverage: verify current Kaiser and Delta Dental enrollment, 2027 health-plan selection, and any actual unpaid premium using current notices. Do not assume March reinstatement steps are still outstanding.
-- PNC / Aaron: older hardship notes preserved as history. Mortgage-hardship work remains marked done as of November 17. No new application task.
+- Kaiser case management — November 21 Call LoWanda Moore at 510-752-7682.
 
 ## Kaiser case management — November 21
 
