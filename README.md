@@ -31,6 +31,23 @@ Updated November 21, 2026.
 - [ ] Verify current Kaiser Medi-Cal assignment and eligibility for ECM/CCM/CHW support, plus continuity into 2027. Current county eligibility does not establish Kaiser assignment or program eligibility. Keep this with the existing coverage task.
 - [ ] Check the existing DMHC complaint status and retrieve the missing June 19 Kaiser decision. Formal DMHC submission remains unverified.
 
+## Reyna — Tuesday, November 24, 1:05 PM
+
+Meeting confirmed by Reyna’s November 21 email; Shir’s invitation lists 1:05–2:05 PM Pacific and calls it Zoom. Verify the joining link before the session.
+
+Goal: leave with a short written parenting plan, two or three changes to try, and a review date.
+
+- [ ] Boundaries: what exactly do we say and do after Lia refuses, laughs, ignores a boundary, or rejects both choices? Walk through one real example through to follow-through.
+- [ ] Throwing/hitting and escalation: what is the agreed response, including an alternative to carrying her into her room and holding the door shut? When should a parent pause or switch with the other?
+- [ ] Two-parent routines: how should Sam and Shir divide roles when mornings go worse with both present? Agree on one sequence and consistent wording.
+- [ ] Attention and Sam’s capacity: how do we handle interruptions and requests when Sam needs rest or cannot give attention? What should we explain about his brain injury without making Lia responsible for adult feelings?
+- [ ] Authority and hurtful words: how should we respond to “Ima can make rules; you can’t” and rejection of Abba? What should we ask Lia about what she understands?
+- [ ] Preschool consistency: compare the teachers’ exact rules and responses with home. Bring teacher-meeting notes if available, especially the peer-conflict account.
+
+If time: fears/injury/death themes in play, bike confidence, and loud bathrooms, if still current. These are questions from prior notes, not established explanations or a new treatment plan.
+
+[Full Reyna notes](Family/Reyna/README.md) · [Confirmed meeting thread](https://mail.google.com/mail/#all/1a1f29a09ec45e4e)
+
 ## Browse by area
 
 - [Health](https://github.com/sarsfox/sam-personal/blob/main/Health/README.md) — clinicians, medication discussions, glasses, dental, testing, rehabilitation and insurance.
