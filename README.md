@@ -1,6 +1,6 @@
 # Life Dashboard
 
-Updated November 21, 2026.
+Updated November 22, 2026.
 
 ## Priorities
 
@@ -53,6 +53,18 @@ If time: fears/injury/death themes in play, bike confidence, and loud bathrooms,
 
 [Full Reyna notes](Family/Reyna/README.md) · [Confirmed meeting thread](https://mail.google.com/mail/#all/1a1f29a09ec45e4e)
 
+## Lia's parent-teacher conference
+
+Notes captured November 18 from Sam's handwritten pages and partial transcript. Meeting date matched to the November 11 invitation.
+
+- Focus: emotional readiness, inclusive play and new friendships. "Ready for K intellectually, not emotionally" is conference shorthand, not a formal assessment or final placement decision.
+- Use "I need bubble space," "take turns," "What's your plan?" and "Tell me more." Encourage body check-ins and kind words.
+- [ ] Bring these notes to Reyna on November 24 and compare school/home responses.
+- [ ] Arrange a playdate with a new classmate. Confirm names in the detailed notes.
+- [ ] Check Brightwheel and confirm the Tuesday grandparents/Thanksgiving event before inviting Bubbe. November 24 is inferred, not confirmed.
+
+Detailed transcription and the original conversation are saved in Obsidian: Family / 2026-11-11 - Lia parent-teacher conference.
+
 ## Browse by area
 
 - [Health](https://github.com/sarsfox/sam-personal/blob/main/Health/README.md) — clinicians, medication discussions, glasses, dental, testing, rehabilitation and insurance.
@@ -71,6 +83,8 @@ If time: fears/injury/death themes in play, bike confidence, and loud bathrooms,
 - December 9, 9–10 AM — Cleveland tour, per family calendar.
 
 ## UPD instruction
+
+Standing approval, November 22, 2026: Sam approves adding and updating Lia's school notes and related follow-through on this GitHub Life Dashboard without asking again. This does not authorize making the repository public, expanding access, or sharing elsewhere. Email approval rules remain unchanged.
 
 When Sam types `UPD`, update this GitHub Life Dashboard (`sarsfox/sam-source-of-truth/README.md`). Update matching entries rather than duplicating them. An Obsidian-only update does not fulfill UPD. Keep detailed supporting records in the private records repository or Obsidian.
 
