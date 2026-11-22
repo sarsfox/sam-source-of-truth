@@ -37,6 +37,11 @@ Meeting confirmed by Reyna’s November 21 email; Shir’s invitation lists 1:05
 
 Goal: leave with a short written parenting plan, two or three changes to try, and a review date.
 
+Preparation document: [Lia | Reyna — Google Doc](https://docs.google.com/document/d/1FQrRCap1C6ORRnIsLSxDb-688Ul_xEyxrC6yWQ7dKNs/edit). Includes earlier questions and August/October session notes.
+
+- [ ] Ask how to distinguish boundary testing from overwhelm, anxiety or a need for connection, and what signs should change our response.
+- [ ] Ask whether sleep should be one of the first two or three priorities and what to track.
+
 - [ ] Boundaries: what exactly do we say and do after Lia refuses, laughs, ignores a boundary, or rejects both choices? Walk through one real example through to follow-through.
 - [ ] Throwing/hitting and escalation: what is the agreed response, including an alternative to carrying her into her room and holding the door shut? When should a parent pause or switch with the other?
 - [ ] Two-parent routines: how should Sam and Shir divide roles when mornings go worse with both present? Agree on one sequence and consistent wording.
