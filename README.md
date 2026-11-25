@@ -16,6 +16,11 @@ Updated November 24, 2026.
 
 - 9–10am — Quality time with Shir. “Sam and Shir starting point” is listed 9–9:45am.
 
+## Cymbalta symptoms — November 24
+
+- [x] Posted a question in the CHW Facebook group about daily burning/prickling skin sensations, worse in the morning, with nausea and difficulty functioning, per my report. Full post saved in Obsidian Medical-Care. Cause remains unresolved.
+- [ ] Check replies and save useful experiences or questions for my prescriber. No replies captured yet. Group experiences are not a confirmed diagnosis or medication plan.
+
 ## November 20 update
 
 - [ ] Roston / Best: what miller asked. confirm their shared written medication plan, whether the earlier clinician-to-clinician note was sent, and the current Exelon decision. The older dismissal of withdrawal is superseded by Roston's November acknowledgment of several possible contributors. These historical notes are not new medication instructions.
