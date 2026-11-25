@@ -11,3 +11,7 @@ Source: Sam's explicit requests in the available November 5–6, 2026 conversati
 - For Jessica therapy prep, focus on her role and their actual work together. Do not turn legal, benefits, and medical administrative follow-ups into questions for her without evidence she owns them.
 - Sam authorized preparing a private GitHub knowledge repository and uploading available conversation context. He additionally requested all historical conversations and a ChatGPT data export; those remain incomplete because account-history export is not available through the current tools.
 - Same account login does not establish access to laptop files. Verify file access or repository reads before claiming a connection works.
+
+## UPD — November 24 clarification
+
+For every UPD affecting a private topic, update both its private source record in sarsfox/sam-personal and the corresponding public dashboard/navigation in sarsfox/sam-source-of-truth, plus Obsidian. Keep detailed private content private. Update matching entries in place and verify both writes. Report any blocked write. This is an instruction for each requested update, not background synchronization of manual edits.

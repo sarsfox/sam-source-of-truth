@@ -18,7 +18,7 @@ Updated November 24, 2026.
 
 ## Cymbalta symptoms — November 24
 
-- [x] Posted a question in the CHW Facebook group about daily burning/prickling skin sensations, worse in the morning, with nausea and difficulty functioning, per my report. Full post saved in Obsidian Medical-Care. Cause remains unresolved.
+- [x] Posted a question in the CHW Facebook group about daily burning/prickling skin sensations, worse in the morning, with nausea and difficulty functioning, per my report. Full post and the draft split-dose paragraph are saved in the [private Cymbalta records](Health/Cymbalta/README.md) and Obsidian. The added paragraph is not confirmed posted to Facebook. Cause remains unresolved.
 - [ ] Check replies and save useful experiences or questions for my prescriber. No replies captured yet. Group experiences are not a confirmed diagnosis or medication plan.
 
 ## November 20 update
@@ -73,11 +73,11 @@ Detailed transcription and the original conversation are saved in Obsidian: Fami
 
 ## Browse by area
 
-- [Health](https://github.com/sarsfox/sam-personal/blob/main/Health/README.md) — clinicians, medication discussions, glasses, dental, testing, rehabilitation and insurance.
+- [Health](https://github.com/sarsfox/sam-source-of-truth/blob/main/Health/README.md) — clinicians, medication discussions, glasses, dental, testing, rehabilitation and insurance.
 - [Family](Family/README.md) — Lia’s schools, Reyna, activities, household responsibilities and Gloria.
-- [Finance](https://github.com/sarsfox/sam-personal/blob/main/Finance/README.md) — Hebrew Free Loan and financial records.
-- [Home](https://github.com/sarsfox/sam-personal/blob/main/Home/README.md) — utilities, maintenance and housing choices.
-- [Work](https://github.com/sarsfox/sam-personal/blob/main/Work/README.md) — strengths and existing collaborations.
+- [Finance](https://github.com/sarsfox/sam-source-of-truth/blob/main/Finance/README.md) — Hebrew Free Loan and financial records.
+- [Home](https://github.com/sarsfox/sam-source-of-truth/blob/main/Home/README.md) — utilities, maintenance and housing choices.
+- [Work](https://github.com/sarsfox/sam-source-of-truth/blob/main/Work/README.md) — strengths and existing collaborations.
 - [Recurring reminders](Reminders/README.md) — quarterly net worth, quarterly DOR and property-tax checks every two months.
 
 ## Next dates
@@ -90,6 +90,9 @@ Detailed transcription and the original conversation are saved in Obsidian: Fami
 
 ## UPD instruction
 
+November 24 clarification: For every UPD affecting a private topic, update both its private source record in sarsfox/sam-personal and the corresponding public dashboard/navigation in sarsfox/sam-source-of-truth, plus Obsidian. Keep detailed private content private. Update matching entries in place and verify both writes. Report any blocked write. This is an instruction for each requested update, not background synchronization of manual edits.
+
+
 Standing approval, November 22, 2026: Sam approves adding and updating Lia's school notes and related follow-through on this GitHub Life Dashboard without asking again. This does not authorize making the repository public, expanding access, or sharing elsewhere. Email approval rules remain unchanged.
 
 When Sam types `UPD`, update this GitHub Life Dashboard (`sarsfox/sam-source-of-truth/README.md`). Update matching entries rather than duplicating them. An Obsidian-only update does not fulfill UPD. Keep detailed supporting records in the private records repository or Obsidian.
@@ -100,11 +103,11 @@ Add new tasks here, one checkbox per line. A rough note is enough. During review
 
 ## Notes and context
 
-- [Medical sections: Glasses, Cymbalta/Karen, Appointments, Benefits and Care Coordination](https://github.com/sarsfox/sam-personal/blob/main/Health/README.md)
+- [Medical sections: Glasses, Cymbalta/Karen, Appointments, Benefits and Care Coordination](https://github.com/sarsfox/sam-source-of-truth/blob/main/Health/README.md)
 
-- [Dr. Richard Roston — records and correspondence](https://github.com/sarsfox/sam-personal/blob/main/Health/Roston/README.md)
+- [Dr. Richard Roston — records and correspondence](https://github.com/sarsfox/sam-source-of-truth/blob/main/Health/Roston/README.md)
 
-- [Meetings with Gloria](https://github.com/sarsfox/sam-personal/blob/main/Health/Gloria%20-%20Meetings.md) — private counseling tracker.
+- [Meetings with Gloria](https://github.com/sarsfox/sam-source-of-truth/blob/main/Health/Gloria%20-%20Meetings.md) — private counseling tracker.
 - [Ideas and backlog](notes/ideas-and-backlog.md)
 
 - [This thread: saved information and Obsidian handoff](https://github.com/sarsfox/sam-personal/blob/main/Archive/Conversations/2026-11-18%20-%20Gloria%20dashboard%20and%20archive%20capture.md)
