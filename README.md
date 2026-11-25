@@ -1,10 +1,11 @@
 # Life Dashboard
 
-Updated November 22, 2026.
+Updated November 24, 2026.
 
 ## Priorities
 
-1. [ ] LTD. Follow up with Brent about the MZ chats. Confirm the next deadline and mediation status. Ask what documentation from Miller would help.
+1. [ ] LTD. Confirm December mediation date/time, mediator and joining link with Brent. Per his call (notes captured November 24), mediation is set, the appeal is paused and attorney-fee motions are deferred until afterward. Continue treatment and preserve accurate cognitive/functional assessments.
+   - [x] Asked Brent about MZ chats and case status. He says the chats do not help. He revised the appeal estimate to around one year, not guaranteed. Ed's specific booking is not confirmed by name in this transcript. Detailed call notes are saved in Obsidian Medical-Care.
 2. [ ] Auntie Kit. Read emails
 3. [ ] SSDI. Update Hamilton re: KP test and Dr. Miller offer
 4. [ ] Metamask. See if they responded
