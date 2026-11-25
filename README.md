@@ -18,6 +18,8 @@ Updated November 24, 2026.
 
 ## Cymbalta symptoms — November 24
 
+- [x] Added the supplied historical dose summary to the [timeline records](Health/Cymbalta/README.md), preserving conflicts and distinguishing reported doses from proposed plans.
+
 - [x] Posted a question in the CHW Facebook group about daily burning/prickling skin sensations, worse in the morning, with nausea and difficulty functioning, per my report. Full post and the draft split-dose paragraph are saved in the [private Cymbalta records](Health/Cymbalta/README.md) and Obsidian. The added paragraph is not confirmed posted to Facebook. Cause remains unresolved.
 - [ ] Check replies and save useful experiences or questions for my prescriber. No replies captured yet. Group experiences are not a confirmed diagnosis or medication plan.
 
